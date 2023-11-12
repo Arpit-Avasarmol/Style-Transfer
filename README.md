@@ -6,5 +6,7 @@ To run this program on your sample content-style pair, just replace the content 
 
 To perform style transfer run: python styleTransferProject.ipynb
 
+I have also attached the image which I've used in the Projects.
+
 **Some Outputs:**
-You can see the output at the end in the ipynb file
+You can see the output at the end in the ipynb file , also I've attached the output image showing the difference in the Original and finally style transferred image. We can clearly see the algorithm have preserved the original image content alongwith imitating the style image.
